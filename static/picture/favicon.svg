@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1" width="500" height="500" viewBox="0 0 500 500"><g style="mix-blend-mode:passthrough"><rect x="0" y="0" width="500.0000305175781" height="500" rx="70" fill="#142D7B" fill-opacity="1"/><g style="mix-blend-mode:passthrough"><path d="M64.3906,500L229.391,500L229.391,466.40599999999995L185,466.40599999999995L185,313.203L243.188,313.203L314,443.672C334.391,481.40599999999995,354.203,500,406.391,500L455.594,500L455.594,466.40599999999995L451.391,466.40599999999995C423.203,466.40599999999995,405.203,455.03099999999995,389,426.90599999999995L314.594,299.406C372.203,288.016,408.203,253.125,408.203,194.70299999999997C408.203,120.625,364.391,81,281,81L64.3906,81L64.3906,114.60900000000001L108.7969,114.60900000000001L108.7969,466.40599999999995L64.3906,466.40599999999995L64.3906,500ZM185,118.203L263,118.203C305,118.203,329,142.906,329,182.04700000000003L329,212.17200000000003C329,251.312,305,276,263,276L185,276L185,118.203Z" fill="#FFFFFF" fill-opacity="1"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1" width="641"
+    height="641" viewBox="0 0 641 641">
+    <defs>
+        <clipPath id="master_svg0_46_04">
+            <rect x="0" y="0" width="641" height="641" rx="150" />
+        </clipPath>
+    </defs>
+    <g style="mix-blend-mode:passthrough" clip-path="url(#master_svg0_46_04)">
+        <rect x="0" y="0" width="641" height="641" rx="150" fill="#3662EC" fill-opacity="1" />
+        <g style="mix-blend-mode:passthrough"
+            transform="matrix(0.8660253882408142,-0.5000000596046448,0.5,0.8660253882408142,-61.88585901260376,98.03883269429207)">
+            <rect x="152" y="164.5" width="135" height="439" rx="67.5" fill="#FFFFFF"
+                fill-opacity="0.6399999856948853" />
+        </g>
+        <g style="mix-blend-mode:passthrough"
+            transform="matrix(0.8660253882408142,0.4999999403953552,-0.4999999701976776,0.8660253882408142,75.40742453932762,-97.42432263493538)">
+            <rect x="219.5" y="92" width="135" height="439" rx="67.5" fill="#FFFFFF" fill-opacity="1" />
+        </g>
+        <g style="mix-blend-mode:passthrough"
+            transform="matrix(0.8660253882408142,0.4999999403953552,-0.4999999701976776,0.8660253882408142,121.26968082785606,-248.58455833792686)">
+            <rect x="524.5" y="102" width="135" height="439" rx="67.5" fill="#FFFFFF" fill-opacity="1" />
+        </g>
+    </g>
+</svg>
